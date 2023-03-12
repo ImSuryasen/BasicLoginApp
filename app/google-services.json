@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665481582350",
+    "project_id": "basicloginapp-71e1c",
+    "storage_bucket": "basicloginapp-71e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665481582350:android:a9e110788b68fe5ea0e95f",
+        "android_client_info": {
+          "package_name": "com.example.basicloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665481582350-plbk658eq4qi55d50r53q2b1hl5cige5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3iyJJgmZ-FO6-L2acPi18J9EE6njQ5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665481582350-plbk658eq4qi55d50r53q2b1hl5cige5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
